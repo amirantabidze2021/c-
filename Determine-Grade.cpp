@@ -10,7 +10,7 @@ int main()
     }
     else if(i1>79){
         cout<<"Your grade is B";
-    }
+    } 
     else if(i1>69){
         cout<<"Your grade is C";
     }
