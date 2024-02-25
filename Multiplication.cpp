@@ -2,7 +2,7 @@
 using namespace std;
 int main(){
     int a,b,c,d,e;
-    cout<<"Enter a 3 digit number: ";
+    cout<<"Enter a 3 digit number: "; 
     cin>>a;
     if(a>99&&a<1000){
         b=a/10;
