@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-    int i1;
+    int i1; 
     cout<<"Enter your year: ";
     cin>>i1;
     if(i1%4==0){
