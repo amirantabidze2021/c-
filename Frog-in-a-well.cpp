@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 int main(){
-    int c;
+    int c; 
     float N,a,b;
     cout<<"Write a number: ";
     cin>>N;
