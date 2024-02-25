@@ -4,7 +4,7 @@ int main() {
     // Input
     int n;
     std::cin >> n;
-
+ 
     // Extract digits
     int digit1 = n % 10;          // Units place
     int digit2 = (n / 10) % 10;   // Tens place
