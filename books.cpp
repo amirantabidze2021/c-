@@ -7,7 +7,7 @@ int main() {
     int height[4], thickness[4];
 
     // Input
-    for (int i = 0; i < 4; ++i) {
+    for (int i = 0; i < 4; ++i) { 
         cin >> height[i] >> thickness[i];
     }
 
