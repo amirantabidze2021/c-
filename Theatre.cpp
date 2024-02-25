@@ -8,7 +8,7 @@ int main(){
     cout<<"Enter number m: ";
     cin>>m;
     cout<<"Enter number n: ";
-    cin>>n;
+    cin>>n; 
     if(0<n&&a<10^9+1){
         b=(m/a)+0.9;
         c=(n/a)+0.9;
