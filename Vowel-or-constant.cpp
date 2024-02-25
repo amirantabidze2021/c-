@@ -4,7 +4,7 @@ int main()
 {
     char i1;
     cout<<"Enter a chatachter: ";
-    cin>>i1;
+    cin>>i1; 
     if(i1=='a'|i1=='e'|i1=='i'|i1=='o'|i1=='u'){
         cout<<"Charchter is a vowel";
     }else{
