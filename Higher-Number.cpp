@@ -10,7 +10,7 @@ int main()
     if(i1>i2){
         cout<<i1;
     }else if(i2>i1){
-        cout<<i2;
+        cout<<i2; 
     }
     else{
         cout<<"The numbers are same";
