@@ -5,7 +5,7 @@ int main() {
     // shesatani monacemebi
     int n;
     cin >> n;
-
+ 
     // samnishna ricxvis masivshi chawera
     int digits[3];
     digits[0] = n % 10;  // Units place
